@@ -3,7 +3,7 @@ VMAlist
 
 Example output:
 
-<tt>
+```
 Loading VMAlist..
 pid: 1
 name of process = init
@@ -43,4 +43,4 @@ name of process = init
 0b77e4000-0b77e7000 rw-p
 0b77fe000-0b77ff000 rw-p
 0bfc45000-0bfc5b000 rw-p
-</tt>
+```
