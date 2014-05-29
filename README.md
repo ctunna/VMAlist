@@ -1,6 +1,8 @@
 VMAlist
 =======
 
+Emulates ``` cat /proc/[pid]/maps ```
+
 Example output:
 
 ```
